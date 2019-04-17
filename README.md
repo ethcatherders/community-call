@@ -2,6 +2,10 @@
 
 The Ethereum Community Call is open to all individuals who self-identify as members of the Ethereum community. Calls happen roughly every two weeks using the [Zoom](https://zoom.us) videoconferencing software. The link to join each meeting will be posted in the main Ethereum Cat Herders Gitter channel shortly before the call. (Yes, we are making you show a little proof of work to find the link, but we assure you it is easy to find.)
 
+## Next call
+
+The next call is scheduled for [Friday, April 19 at 14:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Ethereum+Community+Call&iso=20190419T14&p1=1440&ah=1). The call link will be posted shortly before the call in the main Cat Herders Gitter channel.
+
 ## Process
 
 - Calls will not be recorded nor livestreamed. They are conducted under the [Chatham House Rule](https://www.chathamhouse.org/chatham-house-rule): "participants are free to use the information received, but neither the identity nor the affiliation of the speaker(s), nor that of any other participant, may be revealed."
